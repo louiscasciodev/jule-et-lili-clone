@@ -6,4 +6,4 @@ Realisation integrale d un site de e-commerce (back-office et interface client) 
 + Front : React, Bootstrap
 + Back : node.js & Express
 + Base de donnee MySQL
-+ Organisation en groupe avec methode agile (SCRUM)
++ Methode agile SCRUM
