@@ -2,8 +2,8 @@
 
 **Projet 3 : Jule et Lily**
 *(novembre a janvier 2019)*
-Realisation integrale d un site de e-commerce (back-office et interface client) pour la marque de bijou Jule et Lily.
+Site de e-commerce (back-office et interface client) pour la marque de bijou Jule et Lily.
 + Front : React, Bootstrap
 + Back : node.js & Express
 + Base de donnee MySQL
-+ Methode agile SCRUM
++ SCRUM
